@@ -65,4 +65,4 @@ mat_queue_mode 0
 cl_interp_ratio 2
 
 //Skin Removal in Demos
-cl_custom_material_override 0 (0= Disabled 1=Enabled)
+cl_custom_material_override 1 (0= Disabled 1=Enabled)
